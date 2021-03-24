@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+      <loc>https://crossitemap.xyz/sitemap1.xml</loc>
+    </sitemap>
+    <sitemap>
+      <loc>https://crossitemap.xyz/sitemap2.xml</loc>
+    </sitemap>
+	<sitemap>
+      <loc>https://crossitemap.xyz/sitemap3.xml</loc>
+    </sitemap>
+	<sitemap>
+      <loc>https://crossitemap.xyz/sitemap4.xml</loc>
+    </sitemap>
+	<sitemap>
+      <loc>https://crossitemap.xyz/sitemap5.xml</loc>
+    </sitemap>
+	<sitemap>
+      <loc>https://crossitemap.xyz/sitemap6.xml</loc>
+    </sitemap>
+	<sitemap>
+      <loc>https://crossitemap.xyz/sitemap7.xml</loc>
+    </sitemap>
+	<sitemap>
+      <loc>https://crossitemap.xyz/sitemap8.xml</loc>
+    </sitemap>
+	<sitemap>
+      <loc>https://crossitemap.xyz/sitemap9.xml</loc>
+    </sitemap>
+  </sitemapindex>
